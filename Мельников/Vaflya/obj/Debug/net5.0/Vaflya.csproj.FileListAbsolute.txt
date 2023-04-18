@@ -1,0 +1,16 @@
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\bin\Debug\net5.0\Vaflya.exe
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\bin\Debug\net5.0\Vaflya.deps.json
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\bin\Debug\net5.0\Vaflya.runtimeconfig.json
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\bin\Debug\net5.0\Vaflya.runtimeconfig.dev.json
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\bin\Debug\net5.0\Vaflya.dll
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\bin\Debug\net5.0\Vaflya.pdb
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.csproj.AssemblyReference.cache
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.AssemblyInfoInputs.cache
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.AssemblyInfo.cs
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.dll
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\refint\Vaflya.dll
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.pdb
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\Vaflya.genruntimeconfig.cache
+C:\Users\TEMP.412-10.012\source\repos\Vaflya\Vaflya\obj\Debug\net5.0\ref\Vaflya.dll
