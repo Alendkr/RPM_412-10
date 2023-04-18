@@ -1,0 +1,16 @@
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\bin\Debug\net5.0\Kapelka.exe
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\bin\Debug\net5.0\Kapelka.deps.json
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\bin\Debug\net5.0\Kapelka.runtimeconfig.json
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\bin\Debug\net5.0\Kapelka.runtimeconfig.dev.json
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\bin\Debug\net5.0\Kapelka.dll
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\bin\Debug\net5.0\Kapelka.pdb
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.csproj.AssemblyReference.cache
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.AssemblyInfoInputs.cache
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.AssemblyInfo.cs
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.dll
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\refint\Kapelka.dll
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.pdb
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\Kapelka.genruntimeconfig.cache
+C:\Users\TEMP.412-10.012\source\repos\Kapelka\Kapelka\obj\Debug\net5.0\ref\Kapelka.dll
